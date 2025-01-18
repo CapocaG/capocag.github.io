@@ -22,7 +22,7 @@
     left: 50%;
     top: 50%;
     margin: -50px;
-    background: #22181e;
+    background: rgba(34, 24, 30, 0.5); /* Adjusted for transparency */
     position: fixed;
     border-radius: 50px;
     box-sizing: border-box;
